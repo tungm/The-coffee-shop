@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\TheCoffeeShop.API\TheCoffeeShop.API.csproj" />
+    <ProjectReference Include="..\..\src\Application\TheCoffeeShop.Application.csproj" />
   </ItemGroup>
 
 </Project>
